@@ -1,4 +1,4 @@
-### A Master's degree student in Cybersecurity field with experience in Automation Testing/Q
+### A Master's degree student in Cybersecurity field with experience in Automation Testing/QA
 
 <hr>
 
