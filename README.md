@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,cpp,docker,postman,powershell,py,qt,ubuntu," />
+    <img src="https://skillicons.dev/icons?i=git,bash,cpp,docker,postman,powershell,py,qt,ubuntu,java" />
   </a>
 </p
 
