@@ -1,5 +1,7 @@
 ### A Master's degree student in Cybersecurity field with experience in Automation Testing/Q
 
+<hr>
+
 <!--
 **MikSawero/MikSawero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +36,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,bash,cpp,docker,postman,powershell,py,qt,ubuntu," />
   </a>
 </p
+
+<hr>
 
 ## ⚡️ Stats
 
